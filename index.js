@@ -1,4 +1,4 @@
-////////////CODED BY 𝚃𝙷𝚄𝙶𝙺𝙴𝙴𝙳-𝚃𝙴𝙲𝙷 🎭
+////////////CODED BY THUGKEED-TECH🎭
 
 const {
   default: makeWASocket,
@@ -435,4 +435,4 @@ if (!isReact && config.CUSTOM_REACT === 'true') {
                     return conn.sendMessage(jid, { video: await getBuffer(url), caption: caption, mimetype: 'video/mp4', ...options }, { quoted: quoted, ...options })
                   }
                   if (mime.split("/")[0] === "audio") {
-                    return conn.sendMessage(jid, { audio: await getBuffer(url), caption: caption, mimetype: 'audio/mpeg', ...o
+                    return conn.sendMessage(jid, { audio: await getBuffer(url), caption: caption, mimetype: 'audio/mpeg', ...options }, { quoted: quoted, ... options })
