@@ -1,6 +1,6 @@
-# 🤖 𝐓𝐇𝐔𝐆𝐊𝐄𝐄𝐃-𝐌𝐃 WA Bot V5 🩷
+# 🤖 𝑵𝑨𝑹𝑼𝑻𝑶-𝑿𝑴𝑫 WA Bot 🂱 ✰
 
-## 𝚃𝙷𝚄𝙶𝙺𝙴𝙴𝙳-𝙼𝙳 𝖂𝕰𝕾𝕿 𝖁𝕺𝕿...🪔
+## 𝚃𝙷𝚄𝙶𝙺𝙴𝙴𝙳-𝚃𝙴𝙲𝙷 𝖂𝕰𝕾𝕿 𝖁𝕺𝕿...🪔
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
@@ -25,7 +25,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 Click the button below to fork the THUGKEED-MD Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/Youngkeed/THUGKEED-MD/fork">
+  <a href="https://github.com/Naruto632/NARUTO-XMD/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
