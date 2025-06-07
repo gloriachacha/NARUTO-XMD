@@ -6,13 +6,13 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=THUGKEED-MD;Multi+Device+Whatsapp+Bot;Coded+By+Thugkeed+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=NARUTO-XMD;Multi+Device+Whatsapp+Bot;Coded+By+Thugkeed+Tech" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
   <a href="https://youtube.com/@thugkeed-md"> 
-    <img src="https://files.catbox.moe/ahh2sa.jpg" alt="THUGKEED-MD WA Bot" height="300" width="650">
+    <img src="https://files.catbox.moe/cbzl9u.jpg" alt="THUGKEED-MD WA Bot" height="300" width="650">
   </a> 
 </div>
 
