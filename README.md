@@ -41,7 +41,7 @@ Deploy the bot and easily connect it to your WhatsApp account by Pairing Code OR
 ### Pair Webs 🔢
 <br>
 <div align="center">
-  <a href="https://psb-7c0e25125b5f.herokuapp.com/pair">
+  <a href="https://naruto-xmd-web.onrender.com/">
     <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Web 1-success?style=for-the-badge" alt="Get Your Pair Code 1"/>
   </a>
 </div>
@@ -51,7 +51,7 @@ Deploy the bot and easily connect it to your WhatsApp account by Pairing Code OR
 ### Qr Webs 🖨
 <br>
 <div align="center">
-  <a href="https://psb-7c0e25125b5f.herokuapp.com/qr">
+  <a href="https://naruto-xmd-web.onrender.com/qr">
     <img src="https://img.shields.io/badge/GET%20QR%20CODE-Web 1-success?style=for-the-badge" alt="Get Your Qr Code 1"/>
   </a>
 </div>
