@@ -1,5 +1,5 @@
 {
-  "name": "Narutoxmd",
+  "name": "Naruto-xmd-bot",
   "version": "2.1.0",
   "description": "Advanced WhatsApp bot using Baileys",
   "main": "index.js",
@@ -19,7 +19,7 @@
   "keywords": [
     "bot",
     "Baileys",
-    "narutoxmd",
+    "naruto-xmd-bot",
     "quantum",
     "whatsapp-bot",
     "Thugkeed_Tech"
