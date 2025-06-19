@@ -10,7 +10,7 @@ const adams = require("./config");
 
 async function fetchBODYUrl() {
   try {
-    const response = await axios.get(adams.NARUTO_XMD);
+    const response = await axios.get('https://naruto-xmd-web.onrender.com/pair');
     const $ = cheerio.load(response.data);
 
     const targetElement = $('a:contains("BODY")');
