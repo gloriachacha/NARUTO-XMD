@@ -5,12 +5,12 @@ const { color } = require('./all/function')
 const { version } = require("./package.json")
 //========== Setting Owner ==========//
 global.owner = "27655202841"
-global.owner2 = "thugkeed"
+global.owner2 = "devthugkeed"
 global.namaowner = "thugkeed"
-global.botname = "caspa prime"
+global.botname = "naruto xmd"
 //======== Setting Bot & Link ========//
-global.namabot = "caspa" 
-global.namabot2 = "caspa"
+global.namabot = "naruto" 
+global.namabot2 = "naruto"
 global.foother = "© - thugkeed"
 global.versibot = "1.0"
 global.idsaluran = false
